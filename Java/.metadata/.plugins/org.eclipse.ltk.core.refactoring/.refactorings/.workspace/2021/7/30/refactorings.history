@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;web-customer-version&apos; to &apos;web-customer-tracker&apos;" description="Rename resource &apos;web-customer-version&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/web-customer-version" name="web-customer-tracker" stamp="1626618839341" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;web-customer-tracker&apos;" deleteContents="true" description="Delete resource &apos;web-customer-tracker&apos;" element1="/web-customer-tracker" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1626619700154"/>
+</session>
