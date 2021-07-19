@@ -23,7 +23,7 @@ public class CustomerController {
 	@GetMapping("/list")
 	public String listCustomers(Model theModel) {
 		
-		//get the customers from the service
+		//get the customers from the dao
 		List<Customer> theCustomers = customerService.getCustomers();
 		
 		//add the customers to the model

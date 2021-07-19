@@ -1,0 +1,3 @@
+127.0.0.1 - - [20/Jul/2021:00:07:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Jul/2021:00:08:00 +0530] "GET /web-customer-tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/Jul/2021:00:08:02 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 1229

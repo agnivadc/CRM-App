@@ -593,3 +593,6 @@ java.lang.Error: SWT Resource was not properly disposed
 
 !ENTRY org.eclipse.jst.server.tomcat.core 4 0 2021-07-19 14:31:35.900
 !MESSAGE Port 8080 required by Tomcat v9.0 Server at localhost is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.wst.server.core 4 0 2021-07-19 23:50:09.647
+!MESSAGE Server Tomcat v9.0 Server at localhost was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.

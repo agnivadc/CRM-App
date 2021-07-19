@@ -1,0 +1,5 @@
+package com.agniva.springdemo.service;
+
+public interface CustomerService {
+
+}
