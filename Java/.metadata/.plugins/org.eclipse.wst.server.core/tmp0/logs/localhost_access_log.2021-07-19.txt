@@ -1,0 +1,17 @@
+127.0.0.1 - - [19/Jul/2021:14:32:19 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:32:21 +0530] "GET /web-customer-tracker/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:32:35 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 1086
+127.0.0.1 - - [19/Jul/2021:14:42:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:42:58 +0530] "GET /web-customer-tracker/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:43:52 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 1229
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:43:52 +0530] "GET /web-customer-tracker/resources/css/style.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:44:15 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 1229
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:44:15 +0530] "GET /web-customer-tracker/resources/css/style.css HTTP/1.1" 404 682
+127.0.0.1 - - [19/Jul/2021:14:44:43 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:44:44 +0530] "GET /web-customer-tracker/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:44:58 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 1229
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:44:58 +0530] "GET /web-customer-tracker/resources/css/style.css HTTP/1.1" 200 1049
+127.0.0.1 - - [19/Jul/2021:14:47:48 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:47:51 +0530] "GET /web-customer-tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:47:52 +0530] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 1229
+0:0:0:0:0:0:0:1 - - [19/Jul/2021:14:47:52 +0530] "GET /web-customer-tracker/resources/css/style.css HTTP/1.1" 304 -
